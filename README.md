@@ -53,3 +53,7 @@
   练习4：使用Maybe重写ex4，不要有if语句
 
   [练习4代码](./code/exercise5.js)
+
+- 四、手写MyPromise
+
+  [MyPromise代码](./code/myPromise.js)
