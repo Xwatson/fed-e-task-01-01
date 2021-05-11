@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/Xwatson/fed-e-task-01-01#readme",
   "dependencies": {
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.21"
   }
 }
